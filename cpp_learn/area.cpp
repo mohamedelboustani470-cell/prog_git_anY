@@ -7,6 +7,6 @@ int main(){
     cin>>a;
     cin>>b;
     int area=a*b;
-    cout<<"area of rectanglle is \n"<<area<<endl;
+    cout<<"area of rectanglle is "<<area<<endl;
     return 0;
 }
